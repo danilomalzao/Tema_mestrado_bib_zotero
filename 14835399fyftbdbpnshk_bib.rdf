@@ -1,0 +1,75 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <bib:Thesis rdf:about="31231">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>sda</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>sd</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dcterms:isReferencedBy rdf:resource="#item_8"/>
+        <dcterms:isReferencedBy rdf:resource="#item_7"/>
+        <dcterms:isReferencedBy rdf:resource="#item_9"/>
+        <link:link rdf:resource="#item_6"/>
+        <link:link rdf:resource="#item_5"/>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>31231</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dc:rights>2345 q34</dc:rights>
+        <dc:date>asda</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>1</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>5 q34</dc:coverage>
+        <z:type>xcqw e</z:type>
+        <z:language>312</z:language>
+        <dcterms:abstract>asdasd xzczxc</dcterms:abstract>
+        <dc:title>Tese de Mestrado</dc:title>
+        <z:numPages>123123ed 1d4</z:numPages>
+        <z:archive>12312 3123</z:archive>
+    </bib:Thesis>
+    <bib:Memo rdf:about="#item_8">
+        <rdf:value>&lt;p&gt;alskdmalç skdj ask djç lk12j3ç l12k3j ç1l2k3 123 1&lt;/p&gt;</rdf:value>
+        <dc:subject>basbasabsb</dc:subject>
+        <dc:subject>123 121f1f2</dc:subject>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_7">
+        <rdf:value>&lt;p&gt;asdasdasdu ahosdih sdkj alsdkasdasdzxczxc&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_9">
+        <rdf:value>&lt;p&gt;asdk ajslçdk jçl1k2 jç1l2 3jç12l 3kj1´3opi1´23o 12&lt;/p&gt;
+&lt;p&gt;12i3j 123op i1[2 31p3o ´123o[3 1p2k 31&lt;/p&gt;
+&lt;p&gt;23&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/6/Arquitetura de alto desempenho e escalabilidade para álgebra de mapas.pdf"/>
+        <dc:subject>ate</dc:subject>
+        <dc:subject>asdaz</dc:subject>
+        <dc:subject>xcbxcb</dc:subject>
+        <dc:subject>xccbxcbxcb</dc:subject>
+        <dc:title>Arquitetura de alto desempenho e escalabilidade para álgebra de mapas.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+        <dc:description>&lt;p&gt;asoiçdi japosid jqopwe jp12io 3j12ol3km 1çl23k 1çk2j3n&lt;/p&gt;</dc:description>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/5/Tese de Mestrado.pdf"/>
+        <dc:title>Tese de Mestrado.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+        <dc:description>&lt;p&gt;Primeira versão, a entregue para avaliação de outro professor.&lt;/p&gt;</dc:description>
+    </z:Attachment>
+</rdf:RDF>
